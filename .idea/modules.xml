@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/All Services.iml" filepath="$PROJECT_DIR$/.idea/All Services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amazon/amazon/amazon.iml" filepath="$PROJECT_DIR$/amazon/amazon/amazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-discovery/api-discovery.iml" filepath="$PROJECT_DIR$/api-discovery/api-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-service/product-service.iml" filepath="$PROJECT_DIR$/product-service/product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supplier-service/supplier-service.iml" filepath="$PROJECT_DIR$/supplier-service/supplier-service.iml" />
+    </modules>
+  </component>
+</project>

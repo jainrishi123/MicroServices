@@ -1,0 +1,17 @@
+server:
+  port: 1010
+
+
+spring:
+  application:
+    name: Amazon-DiscoveryService
+
+eureka:
+  client:
+    registerWithEureka: true
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: ${EUREKA_URI:http://localhost:1010/eureka}
+
+  server:
+    wait-time-in-ms-when-sync-empty: 0
